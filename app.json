@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "employee",
-    "slug": "employee",
+    "name": "employee_abhijeet",
+    "slug": "employee_abhijeet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This projects is for admin purpose,admin can create new employee ,check their existing employee status and can call or mail them from app itself.admin can also delete the user."
   }
 }
